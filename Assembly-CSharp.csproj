@@ -37,7 +37,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\DriverManager.cs" />
-     <Compile Include="Assets\scripts\HitEvent.cs" />
+     <Compile Include="Assets\scripts\FollowCamera.cs" />
+     <Compile Include="Assets\scripts\Delivery.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.0f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
