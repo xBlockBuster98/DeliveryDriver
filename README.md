@@ -1,2 +1,3 @@
 # DeliveryDriver
-Un gioco 2d fatto con Unity2D, in cui devi guidare la tua macchina e fare cose come cambiare colore della stessa
+Un semplice gioco fatto con Unity2D, in cui devi guidare la tua macchina, prendere dei pacchi e portarli a destinazione.
+Fai attenzione agli ostacoli e agli acceleratori!
